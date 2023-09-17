@@ -1,0 +1,8 @@
+{
+  "name": "graphql-book-fullstack-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "jinyeonseo <eogml412@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
